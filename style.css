@@ -1,0 +1,27 @@
+#nav
+{
+    background-color: aliceblue;
+    margin: auto;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.butt{
+    width: 3%;
+}
+.container
+{
+
+    width: 70%;
+}
+#delbtn
+{
+    position:absolute;
+    bottom: 40;
+    right: 30;
+
+}
+
+
+
